@@ -6,4 +6,4 @@ Repositório para avaliação de Arquitetura de Computadores
   - Rafael Costa Varela - 202402403583 - https://github.com/RafaCVarela
   - Caique
   - Lara
-  - Victor Hugo - - https://github.com/ViictorHF
+  - Victor Hugo - 202402427164 - https://github.com/ViictorHF
